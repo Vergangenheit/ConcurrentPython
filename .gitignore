@@ -2,3 +2,6 @@
 *.*csv
 urls.txt
 foundurls.txt
+env
+venv
+.idea
